@@ -8,7 +8,7 @@ It is developed with the help of the following:-</br>
 </br>
 <table> 
   <tr>
-    <td bgcolour="yellow"> File Names</td>
+    <td .bg-blue> File Names</td>
     <td bgcolor='yellow'> File Description</td>
   </tr>
   <tr>
