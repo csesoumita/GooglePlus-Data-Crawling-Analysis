@@ -1,9 +1,9 @@
 <h1 bgcolor='grey'> GooglePlus Analysis</h1>
 <p><i>The software is developed to perform crawling of data from social networking site  Google Plus and then producing data analytics based on the data acquired.</i></p>
 Software Specification: </b>
-It is developed with the help of the following:-</b>
-1. Programming Language- Python Version 3.6.5</b>
-2. Database – Mongo DB Version 4.0</b>
+It is developed with the help of the following:-</br>
+1. Programming Language- Python Version 3.6.5</br>
+2. Database – Mongo DB Version 4.0</br>
 3. IDE- JetBrains PyCharm Community Edition 2017.2.3 x64
 
 <table> 
