@@ -1,7 +1,5 @@
 <h1 bgcolor='grey'> GooglePlus Analysis</h1>
-<div class="text-white bg-blue mb-2">
-  .text-white on .bg-blue
-</div>
+
 <p><i>The project is developed to perform crawling of data from social networking site  Google Plus and then producing data analytics based on the data acquired.</i></p>
 Software Specification: </b>
 It is developed with the help of the following:-</br>
@@ -11,8 +9,8 @@ It is developed with the help of the following:-</br>
 </br>
 <table> 
   <tr>
-    <td .bg-blue> File Names</td>
-    <td bgcolor='yellow'> File Description</td>
+    <td> File Names</td>
+    <td bgcolor='#f6f8fa'> File Description</td>
   </tr>
   <tr>
     <td >GopglePlusAPI_APIKey.py </td>
