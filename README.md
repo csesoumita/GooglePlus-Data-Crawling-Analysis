@@ -1,1 +1,1 @@
-<h1 color='red'> GooglePlus Analysis</h1>
+<h1 bgcolor='grey'> GooglePlus Analysis</h1>
