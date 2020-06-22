@@ -6,10 +6,9 @@ It is developed with the help of the following:-</br>
 2. Database – Mongo DB Version 4.0</br>
 3. IDE- JetBrains PyCharm Community Edition 2017.2.3 x64 </br>
 </br>
-</br>
 <table> 
   <tr>
-    <td bgcolor="yellow"> File Names</td>
+    <td bgcolour="yellow"> File Names</td>
     <td bgcolor='yellow'> File Description</td>
   </tr>
   <tr>
