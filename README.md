@@ -10,7 +10,7 @@ It is developed with the help of the following:-</br>
 <table> 
   <tr>
     <td> File Names</td>
-    <td bgcolor=#f6f8fa> File Description</td>
+    <td> File Description</td>
   </tr>
   <tr>
     <td >GopglePlusAPI_APIKey.py </td>
