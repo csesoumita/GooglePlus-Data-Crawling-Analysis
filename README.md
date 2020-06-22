@@ -1,4 +1,4 @@
-<h1 bgcolor='grey'> GooglePlus Analysis</h1>
+<h1> GooglePlus Analysis</h1>
 
 <p><i>The project is developed to perform crawling of data from social networking site  Google Plus and then producing data analytics based on the data acquired.</i></p>
 Software Specification: </b>
