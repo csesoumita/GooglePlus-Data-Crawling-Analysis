@@ -16,7 +16,12 @@ It is developed with the help of the following:-</br>
     <td ><p>Contains python program for crawling Google Plus data via GooglePlus API. </p></td>
   </tr>
   <tr>
-    <td >GooglePlusAPI_Oauth2.py Contains python </td>
+    <td >GooglePlusAPI_Oauth2.py </td>
     <td ><p>Contains python program for crawling GooglePlus own account data. The credentials are present in client_secret.json file which is obtained from Credentials tab of GooglePlus Dashboard. This is only displayed in the output console and not stored inMongo DB. </p></td>
   </tr>
+  <tr>
+    <td >DataAnalytics_GoogleAPI_API_key.py </td>
+    <td ><p>Contains python program for showing data analytics of the data crawled via GopglePlusAPI_APIKey.py program.</p></td>
+  </tr>
+  
 </table>
